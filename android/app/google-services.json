@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886798601356",
+    "project_id": "bockingticketapp",
+    "storage_bucket": "bockingticketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886798601356:android:1bc1a943e34391f1e83fa9",
+        "android_client_info": {
+          "package_name": "com.example.project_kelompok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886798601356-levd0bfq20qqtsomk2oh1ou1f3ro3is1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_kelompok",
+            "certificate_hash": "6e7554df8b5a13393c6cc70900c805b04e061960"
+          }
+        },
+        {
+          "client_id": "886798601356-08t8mpdgvjk5j75j0n95ecapparl0as4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrol1BKIe8REqIxivO17ocZm_U9lbyjTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886798601356-08t8mpdgvjk5j75j0n95ecapparl0as4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
